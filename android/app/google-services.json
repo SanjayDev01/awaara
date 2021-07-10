@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "249009817761",
+    "firebase_url": "https://awaara-3121f.firebaseio.com",
+    "project_id": "awaara-3121f",
+    "storage_bucket": "awaara-3121f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249009817761:android:039da7d223d06ce0b408e0",
+        "android_client_info": {
+          "package_name": "com.sanjupoojari.awaara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249009817761-p21b3s23q39iitcer1f7k785ltci6ei5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanjupoojari.awaara",
+            "certificate_hash": "06353ec023b78d85c241cb0a736910999e0115b1"
+          }
+        },
+        {
+          "client_id": "249009817761-7effsdsc2glh8gpen4opsdep6l99kk3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpoe09hvVjY8o9JJtF-uKuQXNgS4bRfH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249009817761-7effsdsc2glh8gpen4opsdep6l99kk3c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "249009817761-j4sapsf5ilahnrpdhh3fpgbe9nik5v0q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sanjupoojari.awaara"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
